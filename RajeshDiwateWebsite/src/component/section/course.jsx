@@ -121,14 +121,14 @@ const Course = () => {
             <div className="website-div">
               <img
                 className=""
-                src="assets/images/course/zoom-project.JPEG"
+                src="assets/images/course/zoomweb.jpeg"
                 alt="imgae"
               />
             </div>
             <div className="website-div-div">
               <img
                 style={{ height: "300px", width: "160px" }}
-                src="assets/images/course/zoom-projectmobile.JPEG"
+                src="assets/images/course/zoommobile.jpeg"
                 alt="image"
               />
             </div>
@@ -145,14 +145,14 @@ const Course = () => {
             <div className="website-div">
               <img
                 className=""
-                src="assets/images/course/rovwers-trip.PNG"
+                src="assets/images/course/tripweb.png"
                 alt="image"
               />
             </div>
             <div className="website-div-div">
               <img
                 style={{ height: "300px", width: "160px" }}
-                src="assets/images/course/trip-rovermobile.JPEG"
+                src="assets/images/course/tripmobile.jpeg"
                 alt="image"
               />
             </div>
