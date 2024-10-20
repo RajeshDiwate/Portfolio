@@ -66,9 +66,7 @@ const Banner = () => {
                 <p
                   className="desc"
                   style={{
-                    fontSize: 28,
-
-                    fontWeight: "bolder",
+                    fontSize: "25px",
                     // backgroundColor: "brown",
                     // color: "#444",
                     paddingTop: "40px",

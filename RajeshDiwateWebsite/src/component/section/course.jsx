@@ -126,11 +126,7 @@ const Course = () => {
               />
             </div>
             <div className="website-div-div">
-              <img
-                style={{ height: "300px", width: "160px" }}
-                src="assets/images/course/zoommobile.jpeg"
-                alt="image"
-              />
+              <img src="assets/images/course/zoomob.jpeg" alt="image" />
             </div>
             <div className="website-button">
               <a
@@ -150,11 +146,7 @@ const Course = () => {
               />
             </div>
             <div className="website-div-div">
-              <img
-                style={{ height: "300px", width: "160px" }}
-                src="assets/images/course/tripmobile.jpeg"
-                alt="image"
-              />
+              <img src="assets/images/course/tripmob.jpeg" alt="image" />
             </div>
             <div className="website-button">
               <a href="https://www.triprowers.com/" target="_blank">
@@ -173,7 +165,7 @@ const Course = () => {
             <div className="website-div-div">
               <img
                 className=""
-                src="assets/images/course/website6.png"
+                src="assets/images/course/brandmobile.jpeg"
                 alt="image"
               />
             </div>
