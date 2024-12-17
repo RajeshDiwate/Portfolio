@@ -192,7 +192,7 @@ const Course = () => {
             </div>
             <div className="website-button">
               <a
-                href="https://rajapushpa.in/projects/residential/provincia.php"
+                href=" / "
                 target="_blank"
               >
                 Live
