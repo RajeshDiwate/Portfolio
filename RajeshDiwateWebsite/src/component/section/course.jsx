@@ -192,7 +192,7 @@ const Course = () => {
             </div>
             <div className="website-button">
               <a
-                href=" / "
+                href="/"
                 target="_blank"
               >
                 Live
