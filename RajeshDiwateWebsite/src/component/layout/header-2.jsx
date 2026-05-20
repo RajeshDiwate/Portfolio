@@ -43,7 +43,7 @@ const HeaderTwo = () => {
                         <div className="menu">
                             <ul className={`lab-ul ${menuToggle ? "active" : ""}`}>
                                 <li className="menu-item-has-children">
-                                    <a href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Home</a>
+                                    <a href="/"role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Home</a>
                                     <ul className="lab-ul dropdown-menu">
                                         <li><NavLink to="/">Home One</NavLink></li>
                                         <li><NavLink to="/index-2">Home Two</NavLink></li>
@@ -55,7 +55,7 @@ const HeaderTwo = () => {
                                     </ul>
                                 </li>
                                 <li className="menu-item-has-children">
-                                    <a href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Courses</a>
+                                    <a href="/"role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Courses</a>
                                     <ul className="lab-ul dropdown-menu">
                                         <li><NavLink to="/course">Course</NavLink></li>
                                         <li><NavLink to="/course-single">Course Details</NavLink></li>
@@ -63,7 +63,7 @@ const HeaderTwo = () => {
                                     </ul>
                                 </li>
                                 <li className="menu-item-has-children">
-                                    <a href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Blog</a>
+                                    <a href="/"role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Blog</a>
                                     <ul className="lab-ul dropdown-menu">
                                         <li><NavLink to="/blog">Blog Grid</NavLink></li>
                                         <li><NavLink to="/blog-2">Blog Style 2</NavLink></li>
@@ -72,7 +72,7 @@ const HeaderTwo = () => {
                                     </ul>
                                 </li>
                                 <li className="menu-item-has-children">
-                                    <a href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Pages</a>
+                                    <a href="/"role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Pages</a>
                                     <ul className="lab-ul dropdown-menu">
                                         <li><NavLink to="/about">About</NavLink></li>
                                         <li><NavLink to="/team">Team</NavLink></li>

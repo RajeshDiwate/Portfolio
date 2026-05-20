@@ -93,7 +93,7 @@ const Header = () => {
               <div className="menu">
                 <ul className={`lab-ul ${menuToggle ? "active" : ""}`}>
                   <li className="menu-item-has-children">
-                    <a href="#">Home</a>
+                    <a href="/">Home</a>
                   </li>
                   <li className="menu-item-has-children">
                     <a href="#skills">Skills</a>
