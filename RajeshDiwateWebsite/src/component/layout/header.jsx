@@ -96,19 +96,19 @@ const Header = () => {
                     <a href="/">Home</a>
                   </li>
                   <li className="menu-item-has-children">
-                    <a href="#skills">Skills</a>
+                    <a href="/skills">Skills</a>
                   </li>
                   <li className="menu-item-has-children">
-                    <a href="#portfolio">Portfolio</a>
+                    <a href="/portfolio">Portfolio</a>
                   </li>
                   <li className="menu-item-has-children">
-                    <a href="#experiance">Experiance</a>
+                    <a href="/experiance">Experiance</a>
                   </li>
                   <li className="menu-item-has-children">
-                    <a href="#education">Education</a>
+                    <a href="/education">Education</a>
                   </li>
                   <li className="menu-item-has-children">
-                    <a href="#contact">Contact</a>
+                    <a href="/contact">Contact</a>
                   </li>
                 </ul>
               </div>
