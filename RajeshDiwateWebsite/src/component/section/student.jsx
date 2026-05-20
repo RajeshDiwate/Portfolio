@@ -7,7 +7,7 @@ const title = "My Work Experience";
 const studentList = [
   {
     imgUrl: "",
-    imgAlt: "student rajibraj91 rajibraj",
+    imgAlt: "SH",
     name: "Simplify HealthCare ",
     degi: "Pune , India",
     durasion: "(Feb 2026 - Present)",
